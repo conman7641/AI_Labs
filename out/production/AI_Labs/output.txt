@@ -1,0 +1,782 @@
+Test 1: Mapcup and barbercup
+
+Time Stamp: 0
+    S
+    *
+    *
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 1
+    S
+    S
+    *
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 2
+    S
+    S
+    S
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 3
+    S
+    S
+    S
+    S
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 4
+    S
+    S
+    S
+    S
+    S W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 5
+    S
+    S
+    S
+    S
+    S W W W W
+  * S B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 6
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 7
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  S B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 8
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  S B B * G W
+  S * * *   W
+      W W W W
+
+
+Time Stamp: 9
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  S B B * G W
+  S S * *   W
+      W W W W
+
+
+Time Stamp: 10
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  S B B * G W
+  S S S *   W
+      W W W W
+
+
+Time Stamp: 11
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  S B B * G W
+  S S S S   W
+      W W W W
+
+
+Time Stamp: 12
+    S
+    S
+    S
+    S
+    S W W W W
+  S S B B   W
+  S B B S G W
+  S S S S   W
+      W W W W
+
+Test 2: Mapgoaraound and barbergoaraound
+Time Stamp: 0
+    S
+    *
+    *
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 1
+    S
+    S
+    *
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 2
+    S
+    S
+    S
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 3
+    S
+    S
+    S
+    S
+    * W W W W
+* * * B B   W
+* B B B * G W
+* * * * *   W
+      W W W W
+
+
+Time Stamp: 4
+    S
+    S
+    S
+    S
+    S W W W W
+* * * B B   W
+* B B B * G W
+* * * * *   W
+      W W W W
+
+
+Time Stamp: 5
+    S
+    S
+    S
+    S
+    S W W W W
+* * S B B   W
+* B B B * G W
+* * * * *   W
+      W W W W
+
+
+Time Stamp: 6
+    S
+    S
+    S
+    * * * * * *
+    * W W W W *
+  S * B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 7
+    S
+    S
+    S
+    * * * * * *
+    * W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 8
+    S
+    S
+    S
+    * * * * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 9
+    S
+    S
+    S
+    S * * * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 10
+    S
+    S
+    S
+    S S * * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 11
+    S
+    S
+    S
+    S S S * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 12
+    S
+    S
+    S
+    S S S S * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 13
+    S
+    S
+    S
+    S S S S S *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 14
+    S
+    S
+    S
+    S S S S S S
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 15
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 16
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S B B   W S
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 17
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S B B   W S
+B B B B * G W S
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 18
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S B B   W S
+B B B B * G W S
+    * * *   W S
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 19
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S B B   W S
+B B B B * G W S
+    * * *   W S
+    * W W W W S
+    * * * * * *
+
+Time Stamp: 20
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S B B   W S
+B B B B * G W S
+    * * *   W S
+    * W W W W S
+    * * * * * S
+
+Time Stamp: 21
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    *       W S
+    * W W W W S
+    * * * * S S
+
+Time Stamp: 22
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    *       W S
+    * W W W W S
+    * * * S S S
+
+Time Stamp: 23
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    *       W S
+    * W W W W S
+    * * S S S S
+
+Time Stamp: 24
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    *       W S
+    * W W W W S
+    * S S S S S
+
+Time Stamp: 25
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    *       W S
+    * W W W W S
+    S S S S S S
+
+Time Stamp: 26
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    *       W S
+    S W W W W S
+    S S S S S S
+
+Time Stamp: 27
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    * * * G W S
+    S       W S
+    S W W W W S
+    S S S S S S
+
+Time Stamp: 28
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    S * * G W S
+    S       W S
+    S W W W W S
+    S S S S S S
+
+Time Stamp: 29
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    S S * G W S
+    S       W S
+    S W W W W S
+    S S S S S S
+
+Time Stamp: 30
+    S
+    S
+    S
+    S S S S S S
+    S W W W W S
+  S S       W S
+    S S S G W S
+    S       W S
+    S W W W W S
+    S S S S S S
+
+Test 3 Mapgoaraoundfake and barbergoaroundfake
+
+Time Stamp: 0
+    S
+    *
+    *
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 1
+    S
+    S
+    *
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 2
+    S
+    S
+    S
+    *
+    * W W W W
+  * * B B   W
+  * B B * G W
+  * * * *   W
+      W W W W
+
+
+Time Stamp: 3
+    S
+    S
+    S
+    S
+    * W W W W
+* * * B B   W
+* B B B * G W
+* * * * *   W
+      W W W W
+
+
+Time Stamp: 4
+    S
+    S
+    S
+    S
+    S W W W W
+* * * B B   W
+* B B B * G W
+* * * * *   W
+      W W W W
+
+
+Time Stamp: 5
+    S
+    S
+    S
+    S
+    S W W W W
+* * S B B   W
+* B B B * G W
+* * * * *   W
+      W W W W
+
+
+Time Stamp: 6
+    S
+    S
+    S
+    * * * * * *
+    * W W W W *
+  S * B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 7
+    S
+    S
+    S
+    * * * * * *
+    * W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 8
+    S
+    S
+    S
+    * * * * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 9
+    S
+    S
+    S
+    S * * * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 10
+    S
+    S
+    S
+    S S * * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 11
+    S
+    S
+    S
+    S S S * * *
+    S W W W W *
+  S S B B   W *
+B B B B * G W *
+    * * *   W *
+    * W W W W *
+    * * * * * *
+
+Time Stamp: 12
+    S
+    S
+    S
+    * * * S
+    * W W W W
+  S *       W
+    * * * G W
+            W
+      W W W W
+
+
+Time Stamp: 13
+    S
+    S
+    S
+    * * S S
+    * W W W W
+  S *       W
+    * * * G W
+            W
+      W W W W
+
+
+Time Stamp: 14
+    S
+    S
+    S
+    * S S S
+    * W W W W
+  S *       W
+    * * * G W
+            W
+      W W W W
+
+
+Time Stamp: 15
+    S
+    S
+    S
+    S S S S
+    * W W W W
+  S *       W
+    * * * G W
+            W
+      W W W W
+
+
+Time Stamp: 16
+    S
+    S
+    S
+    S S S S
+    S W W W W
+  S *       W
+    * * * G W
+            W
+      W W W W
+
+
+Time Stamp: 17
+    S
+    S
+    S
+    S S S S
+    S W W W W
+  S S       W
+    * * * G W
+            W
+      W W W W
+
+
+Time Stamp: 18
+    S
+    S
+    S
+    S S S S
+    S W W W W
+  S S       W
+    S * * G W
+            W
+      W W W W
+
+
+Time Stamp: 19
+    S
+    S
+    S
+    S S S S
+    S W W W W
+  S S       W
+    S S * G W
+            W
+      W W W W
+
+
+Time Stamp: 20
+    S
+    S
+    S
+    S S S S
+    S W W W W
+  S S       W
+    S S S G W
+            W
+      W W W W
